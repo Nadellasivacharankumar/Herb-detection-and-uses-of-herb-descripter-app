@@ -10,13 +10,12 @@
 mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
 ## Team Details
 Team number : VH161
-
-| Name                        |                       Email          
-N.SIVA CHARAN KUMAR                            99210041092@klu.ac.in
-G.harsha aditya                                99210041193@klu.ac.in
-N.venu gopal                                   9921004508@klu.ac.in
-P.harsha vardhan                               99210041105@klu.ac.in
-
+| Name    | Email           |
+|---------|-----------------|
+|N.SIVA CHARAN KUMAR |99210041092@klu.ac.in |
+| G.HARSHA ADITHYA |99210041193@klu.ac.in |
+| N.VENU GOPAL | 9921004508@klu.ac.in |
+|P.HARSHA VARDHAN |99210041105@klu.ac.in |
 <div style="display: flex; flex-wrap: wrap;">
     <![Uploading image.png…]()
 
