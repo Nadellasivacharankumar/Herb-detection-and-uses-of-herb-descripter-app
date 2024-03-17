@@ -12,8 +12,8 @@ mention the description here , mention what does your prototype does  , make sur
 Team number : VH161
 
 | Name                        |                       Email          
-N. SIVA CHARAN KUMAR                           99210041092@klu.ac.in
-G.harsha aditya                                 99210041193@klu.ac.in
+N.SIVA CHARAN KUMAR                            99210041092@klu.ac.in
+G.harsha aditya                                99210041193@klu.ac.in
 N.venu gopal                                   9921004508@klu.ac.in
 P.harsha vardhan                               99210041105@klu.ac.in
 
