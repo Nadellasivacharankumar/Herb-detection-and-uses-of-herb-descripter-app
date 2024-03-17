@@ -6,17 +6,16 @@
     ⭐️This is a sample tag line  ⭐️ <br>
 </h1>
 
-# [Website link](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
+# [Website link](http://www.google.com)  [`Demo video link `](https://youtu.be/BD2XvB6-Nqg?si=Tj88ZImXiYHAcCEd) [`Other links `](http://www.google.com) 
 mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
 ## Team Details
 Team number : VH161
 
-| Name    | Email           |
-|---------|-----------------|
-| NADELLA SIVA CHARAN KUMAR    -99210041092@klu.ac.in
-g.harsha aditya      -99210041193@klu.ac.in
-n venu gopal        -9921004508@klu.ac.in
-p.harsha vardhan      -99210041105@klu.ac.in
+| Name                        |                       Email          
+N. SIVA CHARAN KUMAR                           99210041092@klu.ac.in
+G.harsha aditya                                 99210041193@klu.ac.in
+N.venu gopal                                   9921004508@klu.ac.in
+P.harsha vardhan                               99210041105@klu.ac.in
 
 <div style="display: flex; flex-wrap: wrap;">
     <![Uploading image.png…]()
@@ -34,7 +33,7 @@ mention the approach and how you have solved the problem with the technology , u
 - be consise and specific
 - explain with images and flowcharts
 - 
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+!
 
 ## Techstacks used 
 nodejs , react , ml , tech stack 1 , tech stack 2
