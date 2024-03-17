@@ -13,10 +13,10 @@ Team number : VH161
 
 | Name    | Email           |
 |---------|-----------------|
-| NADELLA SIVA CHARAN KUMAR-99210041092@klu.ac.in
-g.harsha aditya -99210041193@klu.ac.in
-n venu gopal -9921004508@klu.ac.in
-p.harsha vardhan -99210041105@klu.ac.in
+| NADELLA SIVA CHARAN KUMAR    -99210041092@klu.ac.in
+g.harsha aditya      -99210041193@klu.ac.in
+n venu gopal        -9921004508@klu.ac.in
+p.harsha vardhan      -99210041105@klu.ac.in
 
 <div style="display: flex; flex-wrap: wrap;">
     <![Uploading image.png…]()
