@@ -1,7 +1,7 @@
 # Herb-detection-and-uses-of-herb-descripter-app
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> Title of the project </a><br>
+        <a href="https://www.google.com"> herb detection and uses of herb descriptior - </a><br>
     </b>
     ⭐️This is a sample tag line  ⭐️ <br>
 </h1>
